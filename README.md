@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Prolog-based film recommendation system demonstrates the power of logic programming in handling personalized content suggestions. Future work may involve integrating more sophisticated algorithms, such as collaborative filtering, to further improve recommendation quality.
+This Prolog-based film recommendation system demonstrates the power of logic programming in handling personalized content suggestions. 
 
 ## Features
 
